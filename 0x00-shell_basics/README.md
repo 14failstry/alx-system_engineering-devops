@@ -13,3 +13,8 @@ ls -la . .. /boot
 file
 symbolic link
 html
+mv dir
+clean emacs
+ls -xamp
+commas
+file type
