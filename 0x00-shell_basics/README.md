@@ -7,3 +7,4 @@ ls -a
 mkdir
 mv
 rm
+rmdir
