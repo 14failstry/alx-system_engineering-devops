@@ -8,4 +8,5 @@ mkdir
 mv
 rm
 rmdir
-cd ..
+cd -
+ls -la . .. /boot
