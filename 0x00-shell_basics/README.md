@@ -10,3 +10,4 @@ rm
 rmdir
 cd -
 ls -la . .. /boot
+file
