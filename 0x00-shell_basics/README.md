@@ -11,3 +11,5 @@ rmdir
 cd -
 ls -la . .. /boot
 file
+symbolic link
+html
