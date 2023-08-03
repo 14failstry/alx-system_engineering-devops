@@ -8,3 +8,4 @@ mkdir
 mv
 rm
 rmdir
+cd ..
