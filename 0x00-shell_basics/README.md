@@ -4,4 +4,5 @@ cd ~
 ls -l
 ls -al 
 ls -a
-creat directory
+mkdir
+mv
